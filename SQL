@@ -1,0 +1,4 @@
+Command 4 : cd name/
+Command 5: mvn clean install
+Command 6: mvn exec:java -Dexec.mainClass=“com.examly.MainModule”
+Command 7:mvn test
